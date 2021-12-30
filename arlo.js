@@ -8,7 +8,7 @@ document.addEventListener("arlojscontrolsloaded", function () {
         }
     };
     new ArloWebControls().start({
-       "platformID": "demo.arlo.co",
+       "platformID": "takeoffpages.arlo.co",
         "modules": [
             upcomingEventsControl
     ]});
